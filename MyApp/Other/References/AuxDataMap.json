@@ -1,0 +1,3 @@
+{
+  "AppFromDataMetaDataIdsToEntityNameMappings": "{\"%DataSourceName.AFD%\":\"[dbo].[USERS]\",\"%DataSourceValue.AFD%\":\"[@'[dbo].[USERS]']\",\"%SortFieldName.AFD%\":\"\\\"EMAIL\\\"\",\"%SearchFieldName.AFD%\":\"\\\"EMAIL\\\",\\\"FULLNAME\\\",\\\"NICKNAME\\\"\",\"%StartsWithFieldName.AFD%\":\"EMAIL\",\"%DeleteConfirmFieldName.AFD%\":\"EMAIL\",\"%SortDescending.AFD%\":\"SortDescending1\",\"%BrowseScreen.AFD%\":\"Users\",\"%DetailScreen.AFD%\":\"DetailScreen1\",\"%EditScreen.AFD%\":\"EditScreen1\",\"%BrowseContainer.ID%\":\"BrowseGallery1\",\"%DetailEditContainer.ID%\":\"EditForm1\"}"
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "ApiId": "/providers/microsoft.powerapps/apis/shared_sql",
+    "CdpRevision": {
+      "BaseUrl": "/v2",
+      "LastChangedTimeString": "2021-11-16T06:01:13.8160000Z",
+      "RevisionNumber": 2
+    },
+    "ConnectedDataSourceInfoNameMapping": {
+      "APPLICATION_CODE": "APPLICATION_CODE",
+      "APPLICATION_NAME": "APPLICATION_NAME",
+      "CAT_ID": "CAT_ID",
+      "ID_APPLICATION": "ID_APPLICATION"
+    },
+    "DatasetName": "sqljaxi.database.windows.net,JaxiTank",
+    "EncodeDataset": false,
+    "IsSampleData": false,
+    "IsWritable": true,
+    "Name": "APPLICATIONS",
+    "Type": "ConnectedDataSourceInfo"
+  }
+]

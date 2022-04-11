@@ -1,0 +1,46 @@
+{
+  "be17cb06-331d-4c54-9002-d2548ceb217f": {
+    "connectionInstanceId": "/providers/microsoft.powerapps/apis/shared_sql/connections/8928aa7dc86c4c5c80d02eacae39ab3e",
+    "connectionParameters": {
+      "database": "JaxiTank",
+      "server": "sqljaxi.database.windows.net"
+    },
+    "connectionRef": {
+      "apiTier": "Premium",
+      "authenticationType": "sqlAuthentication",
+      "displayName": "SQL Server",
+      "iconUri": "https://connectoricons-prod.azureedge.net/laborbol/patches/1520/sql-mi/1.0.1520.2572/sql/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sql",
+      "parameterHints": {},
+      "parameterHintsV2": {},
+      "sharedConnectionId": "/providers/microsoft.powerapps/apis/shared_sql/connections/8928aa7dc86c4c5c80d02eacae39ab3e"
+    },
+    "datasets": {
+      "sqljaxi.database.windows.net,JaxiTank": {
+        "dataSources": {
+          "[dbo].[USERS]": {
+            "tableName": "[dbo].[USERS]"
+          },
+          "APPLICATIONS": {
+            "tableName": "[dbo].[APPLICATIONS]"
+          },
+          "CATEGORIES": {
+            "tableName": "[dbo].[CATEGORIES]"
+          },
+          "USER_PRIVS": {
+            "tableName": "[dbo].[USER_PRIVS]"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "[dbo].[USERS]",
+      "APPLICATIONS",
+      "CATEGORIES",
+      "USER_PRIVS"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "be17cb06-331d-4c54-9002-d2548ceb217f"
+  }
+}
